@@ -17,7 +17,7 @@ This is a list of books, webpages, courses and other references for coming up to
 
 [Exercism.io Fortran course track (TBD)](http://exercism.io/languages/fortran)
 
-- From the [github page](https://github.com/exercism/fortran) you can see that they have a fortran track available with some issues posted from 2018, but it looks like it might not be live yet? 
+- From the [github page](https://github.com/exercism/fortran) you can see that they have a fortran track available with some issues posted from 2018, but it looks like it might not be live yet?
 
 [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
 
@@ -48,5 +48,5 @@ This is a list of university course websites focused on introductions to fortran
 
 ## Videos
 
-[Modern Fortran, with emphasis on coarrays from NERSC Training (Youtube)](https://www.youtube.com/watch?v=Frz_AF46a04&index=2&list=WL&t=0s)
+[Modern Fortran, with emphasis on coarrays from NERSC Training (Youtube)]()
 
