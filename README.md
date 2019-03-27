@@ -7,7 +7,7 @@ This is a list of books, webpages, courses and other references for coming up to
 [Introduction to Programming with Fortran](https://www.springer.com/us/book/9783319755014)
 
 - Focused on scientific and parallel programming
-- [SpringerLink download site via UC Berkeley Library]() (must be on LBL campus to use)
+- [SpringerLink download site via UC Berkeley Library](https://link.springer.com/book/10.1007%2F978-3-319-75502-1) (must be on LBL campus to use)
 
 ## Cheat Sheets
 
@@ -48,5 +48,5 @@ This is a list of university course websites focused on introductions to fortran
 
 ## Videos
 
-[Modern Fortran, with emphasis on coarrays from NERSC Training (Youtube)]()
+[Modern Fortran, with emphasis on coarrays from NERSC Training (Youtube)](https://www.youtube.com/watch?v=Frz_AF46a04&index=2&list=WL&t=0s)
 
