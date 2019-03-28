@@ -13,6 +13,8 @@ This is a list of books, webpages, courses and other references for coming up to
 
 [Fortran 90 Reference Card (PDF)](https://web.pa.msu.edu/people/duxbury/courses/phy480/fortran90_refcard.pdf)
 
+[Index of intrinsic functions (Fortran 90)](https://www.nsc.liu.se/~boein/f77to90/a5.html)
+
 ## Code Practice and Examples
 
 [Exercism.io Fortran course track (TBD)](http://exercism.io/languages/fortran)
@@ -37,7 +39,6 @@ This is a list of university course websites focused on introductions to fortran
 
 [Modern Fortran Programming for Chemists and Physicists from Helsinki](www.chem.helsinki.fi/~manninen/fortran2014/index.html)
  
-
 [Modern Programming Langauges: Fortran90/95/2003/2008 course from TACC](https://www.tacc.utexas.edu/documents/13601/162125/fortran_class.pdf)
 
 [Fortran Class from ETHzurich](http://jupiter.ethz.ch/~pjt/FORTRAN/FortranClass.html)
@@ -45,6 +46,12 @@ This is a list of university course websites focused on introductions to fortran
 [Fortran course from Naval Postgraduate School](https://www.oc.nps.edu/~bird/oc3030_online/fortran/)
 
 [An Introduction to Fortran Programming from Cornell Virtual Workshop (via XSEDE)](https://cvw.cac.cornell.edu/Fintro/default)
+
+[High Performance Scientific Computing from University of Washington](http://staff.washington.edu/rjl/classes/am583s2014/index.html)
+
+## Tutorials
+
+[OOP in Fortran 2003](https://gist.github.com/n-s-k/522f2669979ed6d0582b8e80cf6c95fd)
 
 ## Videos
 
