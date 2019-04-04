@@ -9,6 +9,8 @@ This is a list of books, webpages, courses and other references for coming up to
 - Focused on scientific and parallel programming
 - [SpringerLink download site via UC Berkeley Library](https://link.springer.com/book/10.1007%2F978-3-319-75502-1) (must be on LBL campus to use)
 
+[Modern Fortran Explained](http://www.oxfordscholarship.com/view/10.1093/oso/9780198811893.001.0001/oso-9780198811893) (must be on LBL campus to use)
+
 [Fortran Wikibook](https://en.wikibooks.org/wiki/Fortran)
 
 - Online 'book' reference from Wikibooks.
@@ -61,3 +63,4 @@ This is a list of university course websites focused on introductions to fortran
 
 [Modern Fortran, with emphasis on coarrays from NERSC Training (Youtube)](https://www.youtube.com/watch?v=Frz_AF46a04&index=2&list=WL&t=0s)
 
+- John Reid (presenter) wrote Modern Fortran Explained referenced in [Books section](##Books)
