@@ -38,6 +38,7 @@ This is a list of books, webpages, courses and other references for coming up to
 - Part of GNU Compiler Collection (GCC)
 - [GFortran online documentation](https://gcc.gnu.org/onlinedocs/gcc-8.3.0/gfortran/)
 - [GFortran Wiki](https://gcc.gnu.org/wiki/GFortran)
+- [GFortran Wiki - Getting Started](https://gcc.gnu.org/wiki/GFortranGettingStarted)
 
 ## Course Websites
 
