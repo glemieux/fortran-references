@@ -63,4 +63,4 @@ This is a list of university course websites focused on introductions to fortran
 
 [Modern Fortran, with emphasis on coarrays from NERSC Training (Youtube)](https://www.youtube.com/watch?v=Frz_AF46a04&index=2&list=WL&t=0s)
 
-- John Reid (presenter) wrote Modern Fortran Explained referenced in [Books section](##Books)
+- John Reid (presenter) wrote Modern Fortran Explained referenced in [Books section](##Books)+
