@@ -43,7 +43,7 @@ This is a list of books, webpages, courses and other references for coming up to
 
 This is a list of university course websites focused on introductions to fortran.  Mostly includes links to course slide decks.
 
-[Modern Fortran Programming for Chemists and Physicists from Helsinki](www.chem.helsinki.fi/~manninen/fortran2014/index.html)
+[Modern Fortran Programming for Chemists and Physicists from Helsinki](http://www.chem.helsinki.fi/~manninen/fortran2014/index.html)
  
 [Modern Programming Langauges: Fortran90/95/2003/2008 course from TACC](https://www.tacc.utexas.edu/documents/13601/162125/fortran_class.pdf)
 
